@@ -3,6 +3,9 @@
 Selamat datang di organisasi resmi untuk proyek **Web Desa Pemerihan**.  
 Repositori ini berisi source code, dokumentasi, dan panduan pengembangan untuk sistem informasi desa.
 
+## Seluruh list task dan code guidelines ada di sini
+[Todolist and guidelines](https://todolist.faiqerlangga.my.id/)
+
 ## 🎯 Tujuan
 - Menyediakan informasi desa secara online dan transparan.  
 - Mempermudah masyarakat mengakses layanan desa.  
@@ -13,15 +16,6 @@ Repositori ini berisi source code, dokumentasi, dan panduan pengembangan untuk s
 - Berita & Pengumuman  
 - Data Potensi Desa (wisata, UMKM, dll.)  
 - Layanan administrasi online  
-
-## 🤝 Kontribusi
-Kami terbuka untuk kontribusi dari tim KKN maupun masyarakat desa.  
-Silakan buat *issue* atau *pull request* jika ada saran perbaikan.
-
-## 📫 Kontak
-- Website: [pemerihan.id](http://pemerihan.id) *(jika sudah aktif)*  
-- Email: desapemerihan@example.com  
-- Instagram: [@desapemerihan](https://instagram.com/desapemerihan)
 
 ---
 
